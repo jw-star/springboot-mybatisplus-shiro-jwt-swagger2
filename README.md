@@ -668,9 +668,9 @@ public class UserController {
 ```
 # 3.测试
 密码输入错误
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p3LXN0YXIvbXlGaWd1cmViZWQvbWFzdGVyL2ltZy8yMDIwMDExMTIxNDM1MC5wbmc?x-oss-process=image/format,png)
+![在这里插入图片描述](https://raw.githubusercontent.com/jw-star/myFigurebed/master/img/20200111214350.png)
 用户名输入错误
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p3LXN0YXIvbXlGaWd1cmViZWQvbWFzdGVyL2ltZy8yMDIwMDExMTIxNDQ1Ni5wbmc?x-oss-process=image/format,png)
+![在这里插入图片描述](https://raw.githubusercontent.com/jw-star/myFigurebed/master/img/20200111214456.png)
 登录成功返回token
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p3LXN0YXIvbXlGaWd1cmViZWQvbWFzdGVyL2ltZy8yMDIwMDExMjExMjU0Mi5wbmc?x-oss-process=image/format,png)
+![在这里插入图片描述](https://raw.githubusercontent.com/jw-star/myFigurebed/master/img/20200112112542.png)
 ```
